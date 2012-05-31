@@ -1,4 +1,4 @@
 seventyOne
 ==========
 
-Wordpress Theme Based on Twitter Bootsrep
+Seventy One is a Wordpress Theme Based on Twitter Bootsrep.
